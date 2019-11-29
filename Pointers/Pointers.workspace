@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Pointers" Database="" Version="10.0.0">
+  <Project Name="pointers_challenge" Path="pointers_challenge/pointers_challenge.project" Active="No"/>
+  <Project Name="smart_ptr" Path="smart_ptr/smart_ptr.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="pointers_challenge" ConfigName="Debug"/>
+      <Project Name="smart_ptr" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="pointers_challenge" ConfigName="Release"/>
+      <Project Name="smart_ptr" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
